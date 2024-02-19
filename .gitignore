@@ -1,5 +1,6 @@
 .vscode/
 data/
+.idea/
 # Logs
 logs
 *.log

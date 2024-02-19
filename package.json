@@ -1,12 +1,16 @@
 {
   "name": "arkts",
   "version": "1.0.0",
-  "main": "app.ts",
+  "main": "src/app.ts",
   "repository": "https://github.com/1w6qn/arkts.git",
   "author": "1w6qn <2050903851@qq.com>",
-  "license": "None",
+  "license": "MIT",
   "private": false,
   "dependencies": {
+    "@deepkit/app": "^1.0.1-alpha.134",
+    "@deepkit/http": "^1.0.1-alpha.134",
+    "@types/node": "^20.11.19",
+    "deepkit": "^1.1.0",
     "eslint": "^8.56.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
