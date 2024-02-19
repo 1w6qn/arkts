@@ -1,0 +1,9 @@
+{
+  "name": "arkts",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "https://github.com/1w6qn/arkts.git",
+  "author": "1w6qn <2050903851@qq.com>",
+  "license": "None",
+  "private": false
+}
