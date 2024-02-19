@@ -5,5 +5,10 @@
   "repository": "https://github.com/1w6qn/arkts.git",
   "author": "1w6qn <2050903851@qq.com>",
   "license": "None",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }
